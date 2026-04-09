@@ -21,3 +21,5 @@ resource "azurerm_virtual_network_peering" "hub_to_spoke" {
   allow_gateway_transit        = true
   use_remote_gateways          = false
 }
+
+# added new line -1 
